@@ -27,6 +27,6 @@ if [ -d "$HOME/.local/bin" ] ; then
 fi
 
 # Auto start x11 after login
-if [[ ! $DISPLAY && $XDG_VTNR -eq 1 ]]; then
-    startx
+if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
+  startx
 fi

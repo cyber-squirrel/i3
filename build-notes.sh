@@ -12,5 +12,4 @@ sudo apt install xinit
 echo "exec i3" >> ~/.xinitrc
 # add .profile/.xinitrc files
 # Install greeter
-sudo apt install lightdm
-sudo dpkg-reconfigure lightdm
+# https://github.com/nullgemm/ly

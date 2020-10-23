@@ -13,3 +13,9 @@ echo "exec i3" >> ~/.xinitrc
 # add .profile/.xinitrc files
 # Install greeter
 # https://github.com/nullgemm/ly
+# sudo apt install build-essential libpam0g-dev libxcb-xkb-dev
+# git clone https://github.com/nullgemm/ly.git
+# make github
+# make
+# add tty font
+# https://assets.ubuntu.com/v1/0cef8205-ubuntu-font-family-0.83.zip

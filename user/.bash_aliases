@@ -31,6 +31,10 @@ alias svi='sudo vi'
 alias vis='vim "+set si"'
 alias edit='vim'
 
+## Tmux defaults
+alias t="tmux"
+alias ta="t a -t"
+
 # do not delete / or prompt if deleting more than 3 files at a time #
 alias rm='rm -I --preserve-root'
  

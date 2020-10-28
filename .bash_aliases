@@ -3,8 +3,8 @@ alias cd..='cd ..'
  
 ## a quick way to get out of current directory ##
 alias ..='cd ..'
-alias ...='cd ../../../'
-alias ....='cd ../../../../'
+alias ...='cd ../../'
+alias ....='cd ../../../'
 
 ## Colorize the ls output ##
 alias ls='ls --color=auto'

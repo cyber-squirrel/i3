@@ -28,7 +28,7 @@
         "defaults":
         {
             "colorScheme" : "One Half Dark",
-            "fontFace": "Ubuntu Mono derivative Powerline"
+            "fontFace": "Cascadia Mono PL"
             // icons live here %LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState 
             // powerline for powershell https://github.com/Jaykul/PowerLine
             // https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
